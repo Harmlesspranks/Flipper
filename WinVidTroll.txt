@@ -2,7 +2,7 @@ REM Title: Trolled
 REM Author: harmless pranks
 REM Description: Notepad Troll
 REM Target:	Windows
-DELAY 3000
+DELAY 2000
 GUI r
 DELAY 50
 STRING https://www.youtube.com/watch?v=PXqcHi2fkXI&loop=1
