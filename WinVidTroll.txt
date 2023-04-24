@@ -1,6 +1,6 @@
 REM Title: Trolled
 REM Author: harmless pranks
-REM Description: Notepad Troll
+REM Description: Youtube Troll
 REM Target:	Windows
 DELAY 2000
 GUI r
