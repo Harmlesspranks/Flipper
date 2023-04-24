@@ -3,7 +3,6 @@ REM Author: harmless pranks
 REM Description: Notepad Troll
 REM Target:	Windows
 
-DELAY 1000
 GUI r
 DELAY 500
 STRING notepad
